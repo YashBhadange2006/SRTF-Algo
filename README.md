@@ -30,3 +30,6 @@ git clone https://github.com/YashBhadange2006/SRTF-Algo.git
 
 # Navigate to the project folder
 cd SRTF-Algo
+
+# Github Pages
+https://yashbhadange2006.github.io/SRTF-Algo/
